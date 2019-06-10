@@ -1,2 +1,3 @@
 # FirstRepo
-i wnt to learn git hub again 
+i wnt to learn git hub again  
+  my first commit
